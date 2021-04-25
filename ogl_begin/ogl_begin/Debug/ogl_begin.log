@@ -1,0 +1,10 @@
+﻿  main.c
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(115,69): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(116,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(130,23): warning C4305: функция: усечение из "double" в "GLfloat"
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(130,28): warning C4305: функция: усечение из "double" в "GLfloat"
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(140,26): warning C4305: функция: усечение из "double" в "GLfloat"
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(160,26): warning C4305: функция: усечение из "double" в "GLfloat"
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(106,1): warning C4305: инициализация: усечение из "double" в "const float"
+A:\VS Projects\VisualPr\ogl_begin\ogl_begin\main.c(107,1): warning C4305: инициализация: усечение из "double" в "float"
+  ogl_begin.vcxproj -> A:\VS Projects\VisualPr\ogl_begin\Debug\ogl_begin.exe
